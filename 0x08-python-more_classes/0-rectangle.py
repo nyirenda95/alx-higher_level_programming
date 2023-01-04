@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-"""0-rectangle"""
+# 0-rectangle.py
+"""Defines a Rectangle class."""
 
 
 class Rectangle:
-    """Empty class per task instructions, will be built upon in later tasks.
-            """
-                pass
+        """Represent a rectangle."""
+            pass
